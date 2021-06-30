@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{217:function(n,e,t){"use strict";t.r(e);var r={},l=t(21),component=Object(l.a)(r,(function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("v-navigation-drawer",{attrs:{permanent:"","expand-on-hover":""}},[t("v-list",[n._v("Hii")])],1)}),[],!1,null,null,null);e.default=component.exports}}]);
