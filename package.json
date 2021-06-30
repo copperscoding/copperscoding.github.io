@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
+    "deploy": "push-dir --dir=dist --branch=release --cleanup",
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
@@ -29,6 +30,7 @@
     "eslint-plugin-vue": "^7.12.1",
     "node-sass": "^6.0.1",
     "prettier": "^2.3.2",
+    "push-dir": "^0.4.1",
     "sass": "^1.32.13",
     "sass-loader": "^10.2.0"
   }

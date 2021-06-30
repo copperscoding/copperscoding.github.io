@@ -17,7 +17,6 @@ export default {
         '@nuxtjs/style-resources'
     ],
 
-
     // Auto import components: https://go.nuxtjs.dev/config-components
     'components': true,
 
@@ -61,6 +60,9 @@ export default {
     'styleResources': {
         'scss': ['./assets/_global.scss']
     },
+
+
+    'target': 'static',
 
 
     // Vuetify module configuration: https://go.nuxtjs.dev/config-vuetify
